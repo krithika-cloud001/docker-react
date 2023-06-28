@@ -1,1 +1,0 @@
-Using docker file and docker compose to build docker image and deploy them
